@@ -1,0 +1,37 @@
+        CORE JAVA 
+app1   :     literals ,println and print
+app2   :     variables
+app3   :     concatination and mathamatical operators
+app4   :     boolean operators
+app5   :     unary operators
+app6   :     if blocks
+app7   :     nested if blocks
+app8   :     else blocks
+app9   :     if-else inside if blocks
+app10  :     if-else inside else blocks
+app11  :     for loop
+app11a :     while loop
+app11b :     do-while loop
+app11c :     switch-cases
+app12  :     static methods
+app13  :     static attributes
+app14  :     static in itializers
+app15  :     IFR
+app16  :     Multiple classes
+app17  :     class ,object and references
+app18  :     constructors, overloading and this() calling statement
+app19  :     "this" as a reference variable
+app20  :     IIB
+app21  :     command line arguments
+app22  :     inheritance (attributes, methods, and constructors)
+app23  :     inheritance(IIB, SIB)
+app24  :     packages
+app25  :     private
+app26  :     default (package scope)
+app27  :     default, protected and public
+app28  :     abstract classes
+app29  :     interfaces
+app30  :     primitive type casting
+app31  :     derived type casting (upcasting and downcasting)
+app32  :     method overloading and overriding
+app33  :     Object class
